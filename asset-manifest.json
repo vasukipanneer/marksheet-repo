@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marksheet-repo/static/css/main.a617e044.chunk.css",
+    "main.js": "/marksheet-repo/static/js/main.d7be08a8.chunk.js",
+    "main.js.map": "/marksheet-repo/static/js/main.d7be08a8.chunk.js.map",
+    "runtime-main.js": "/marksheet-repo/static/js/runtime-main.75783c38.js",
+    "runtime-main.js.map": "/marksheet-repo/static/js/runtime-main.75783c38.js.map",
+    "static/js/2.f7bc9d1a.chunk.js": "/marksheet-repo/static/js/2.f7bc9d1a.chunk.js",
+    "static/js/2.f7bc9d1a.chunk.js.map": "/marksheet-repo/static/js/2.f7bc9d1a.chunk.js.map",
+    "index.html": "/marksheet-repo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/marksheet-repo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f7bc9d1a.chunk.js.LICENSE.txt": "/marksheet-repo/static/js/2.f7bc9d1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75783c38.js",
+    "static/js/2.f7bc9d1a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d7be08a8.chunk.js"
+  ]
+}
